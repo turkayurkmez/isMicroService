@@ -2,11 +2,11 @@
 
 namespace Catalog.API.Data.Repositories
 {
-    public interface IProductRepository: IRepository<Product>
+    public interface IProductRepository : IRepository<Product>
     {
-        ICollection<Product> GetProductsByCategory(int categoryId);
-        ICollection<Product> SearchProductsByName(string name);
-        
+        Task<ICollection<Product>> GetProductsByCategory(int categoryId);
+        Task<ICollection<Product>> SearchProductsByName(string name);
+
 
     }
 }

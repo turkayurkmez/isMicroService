@@ -1,42 +1,49 @@
 ﻿using Catalog.API.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Catalog.API.Data.Repositories
 {
     public class EFProductRepository : IProductRepository
     {
-        public void Add(Product entity)
+        private readonly CatalogDbContext context;
+        public async Task Add(Product entity)
         {
-            throw new NotImplementedException();
+            context.Products.Add(entity);
+            await context.SaveChangesAsync();
         }
 
-        public void Delete(Product entity)
+        public async Task Delete(Product entity)
         {
-            throw new NotImplementedException();
+            context.Products.Remove(entity);
+            await context.SaveChangesAsync();
+
+        }
+         
+        public async Task< Product> Get(int id)
+        {
+            return await context.Products.FindAsync(id);
         }
 
-        public Product Get(int id)
+        public async Task<IEnumerable<Product>> GetAll()
         {
-            throw new NotImplementedException();
+            return await  context.Products.ToListAsync();            
         }
 
-        public IEnumerable<Product> GetAll()
+        public async Task< ICollection<Product>> GetProductsByCategory(int categoryId)
         {
-            throw new NotImplementedException();
+            return await context.Products.Where(p => p.CategoryId == categoryId).ToListAsync();
         }
 
-        public ICollection<Product> GetProductsByCategory(int categoryId)
+        public async Task<ICollection<Product>> SearchProductsByName(string name)
         {
-            throw new NotImplementedException();
+            return await context.Products.Where(p => p.Name.ToLower().Contains(name.ToLower())).ToListAsync();
         }
 
-        public ICollection<Product> SearchProductsByName(string name)
+        public async Task Update(Product entity)
         {
-            throw new NotImplementedException();
-        }
+            context.Products.Update(entity);
+            await context.SaveChangesAsync();
 
-        public void Update(Product entity)
-        {
-            throw new NotImplementedException();
         }
     }
 }
