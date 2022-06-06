@@ -15,7 +15,7 @@ namespace Catalog.API.Data
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
-            builder.Entity<Category>().HasData(new Category  {  Id = 1, Name = "Giyim"},
+            builder.Entity<Category>().HasData(new Category  {  Id = 1, Name = "Giyim", Description="Yazlık ve kışlık kyafetler"},
                                                new Category { Id=2, Name="Elektronik"} 
                 );
 
@@ -28,6 +28,10 @@ namespace Catalog.API.Data
 
 
             };
+
+
+            builder.Entity<Product>().HasData(products);
+            
 
         }
 
