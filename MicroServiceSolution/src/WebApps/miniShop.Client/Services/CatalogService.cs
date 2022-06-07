@@ -4,7 +4,7 @@ using Newtonsoft.Json;
 
 namespace miniShop.Client.Services
 {
-    public class CatalogService
+    public class CatalogService : ICatalogService
     {
         private readonly HttpClient _httpClient;
         private readonly string _remoteServiceBaseUrl;
@@ -17,16 +17,16 @@ namespace miniShop.Client.Services
             _httpContextAccessor = httpContextAccessor;
         }
 
-        public async Task<IEnumerable<ProductResponse>> GetProducts()
+        public IEnumerable<ProductResponse> GetProducts()
         {
-            var dataString = await _httpClient.GetAsync(_remoteServiceBaseUrl);
-       
-            if (dataString.IsSuccessStatusCode)
-            {
-              var response =   dataString.Content.ReadFromJsonAsync<object>();
-            }
+            var dataString = _httpClient.GetStringAsync("http://localhost:5004/api/Catalog").GetAwaiter().GetResult();
+
+            //if (dataString.IsSuccessStatusCode)
+            //{
+            //    var response = dataString.Content.ReadFromJsonAsync<object>();
+            //}
             //return response;
-            return null;
+            return JsonConvert.DeserializeObject<IEnumerable<ProductResponse>>(dataString);
         }
 
         //public async Task<ProductViewModel> GetProductById(int id)

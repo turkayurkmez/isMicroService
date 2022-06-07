@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xzbuqb0e1qz8QPsHCOo5V2xfkj3+CpoZ4kJtaYNl2TzbzNmTlfTsj6WEjanAna+5zXkWJh+f13Tm05Sg9zQPcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\turka\\source\\repos\\Kurumsal\\IsNet\\MicroServices\\eventInRabbitMQ\\SenderAndReceiver\\Sender\\Sender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\turka\\.nuget\\packages\\rabbitmq.client\\6.3.0\\rabbitmq.client.6.3.0.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

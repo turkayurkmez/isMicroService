@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\bin\Debug\net6.0\Sender.exe
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\bin\Debug\net6.0\Sender.deps.json
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\bin\Debug\net6.0\Sender.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\bin\Debug\net6.0\Sender.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\bin\Debug\net6.0\Sender.pdb
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\obj\Debug\net6.0\Sender.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\obj\Debug\net6.0\Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\obj\Debug\net6.0\Sender.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\obj\Debug\net6.0\Sender.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\obj\Debug\net6.0\Sender.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\obj\Debug\net6.0\Sender.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\obj\Debug\net6.0\Sender.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\obj\Debug\net6.0\refint\Sender.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\obj\Debug\net6.0\Sender.pdb
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\obj\Debug\net6.0\Sender.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\eventInRabbitMQ\SenderAndReceiver\Sender\obj\Debug\net6.0\ref\Sender.dll
