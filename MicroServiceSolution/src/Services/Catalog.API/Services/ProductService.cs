@@ -15,7 +15,8 @@ namespace Catalog.API.Services
         public async Task<ProductResponse> CreateProductAsync(AddProductRequest product)
         {
 
-            await productRepository.Add(product);
+            // TODO 1: AutoMapper ile mapping yapılacak.
+            throw new NotImplementedException();
 
 
         }
