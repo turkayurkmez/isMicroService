@@ -1,22 +1,31 @@
-﻿using Catalog.API.Data.Repositories;
+﻿using AutoMapper;
+using Catalog.API.Data.Repositories;
 using Catalog.API.DataTransferObjects;
+using Catalog.API.Models;
 
 namespace Catalog.API.Services
 {
     public class ProductService : IProductService
     {
         private IProductRepository productRepository;
+        private IMapper mapper;
 
-        public ProductService(IProductRepository productRepository)
+        public ProductService(IProductRepository productRepository, IMapper mapper)
         {
             this.productRepository = productRepository;
+            this.mapper = mapper;
         }
 
         public async Task<ProductResponse> CreateProductAsync(AddProductRequest product)
         {
 
+            var productEntity = mapper.Map<Product>(product);
+            await productRepository.Add(productEntity);
+
             // TODO 1: AutoMapper ile mapping yapılacak.
-            throw new NotImplementedException();
+            var productResponse = mapper.Map<ProductResponse>(productEntity);
+            return productResponse;
+
 
 
         }
@@ -31,12 +40,15 @@ namespace Catalog.API.Services
             throw new NotImplementedException();
         }
 
-        public Task<IEnumerable<ProductResponse>> GetProductsAsync()
+        public async Task<IEnumerable<ProductResponse>> GetProductsAsync()
         {
-            throw new NotImplementedException();
+            var products = await productRepository.GetAll();
+            var result = mapper.Map<List<ProductResponse>>(products);
+            return result;
+           
         }
 
-        public Task<IEnumerable<ProductResponse>> GetProductsByCategoryAsync(string category)
+        public Task<IEnumerable<ProductResponse>> GetProductsByCategoryAsync(int categoryId)
         {
             throw new NotImplementedException();
         }

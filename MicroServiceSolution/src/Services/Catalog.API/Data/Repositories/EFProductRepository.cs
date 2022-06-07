@@ -6,6 +6,10 @@ namespace Catalog.API.Data.Repositories
     public class EFProductRepository : IProductRepository
     {
         private readonly CatalogDbContext context;
+        public EFProductRepository(CatalogDbContext context)
+        {
+            this.context = context;
+        }
         public async Task Add(Product entity)
         {
             context.Products.Add(entity);

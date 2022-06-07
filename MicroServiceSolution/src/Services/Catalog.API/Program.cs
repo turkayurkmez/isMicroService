@@ -1,4 +1,7 @@
 using Catalog.API.Data;
+using Catalog.API.Data.Repositories;
+using Catalog.API.Mapping;
+using Catalog.API.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,6 +16,9 @@ builder.Services.AddSwaggerGen();
 var connectionString = builder.Configuration.GetConnectionString("db");
 
 builder.Services.AddDbContext<CatalogDbContext>(config => config.UseSqlServer(connectionString));
+builder.Services.AddAutoMapper(typeof(MapProfile));
+builder.Services.AddScoped<IProductRepository, EFProductRepository>();
+builder.Services.AddScoped<IProductService, ProductService>();
 
 
 var app = builder.Build();

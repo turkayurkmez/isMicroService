@@ -6,8 +6,8 @@ namespace Catalog.API.Services
     {
         Task<IEnumerable<ProductResponse>> GetProductsAsync();
         Task<IEnumerable<ProductResponse>> GetProductsByNameAsync(string name);
-        Task<IEnumerable<ProductResponse>> GetProductsByCategoryAsync(string category);
-        Task<IEnumerable<ProductResponse>> GetProductsByPriceAsync(decimal price);
+        Task<IEnumerable<ProductResponse>> GetProductsByCategoryAsync(int categoryId);
+      
         Task<ProductResponse> GetProductByIdAsync(int id);
         Task<ProductResponse> CreateProductAsync(AddProductRequest product);
         Task<ProductResponse> UpdateProductAsync(UpdateProductRequest product);
