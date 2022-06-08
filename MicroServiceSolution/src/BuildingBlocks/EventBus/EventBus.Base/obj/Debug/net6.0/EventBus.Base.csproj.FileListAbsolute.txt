@@ -1,0 +1,12 @@
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net6.0\EventBus.Base.deps.json
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net6.0\EventBus.Base.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net6.0\EventBus.Base.pdb
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\refint\EventBus.Base.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.pdb
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\ref\EventBus.Base.dll

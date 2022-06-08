@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NjUQOGOcrGLrLCh9TfrZiZr3sw0d/Q1yU0vZaAjXc62usplEpnTi9EDe1WMlAO+0OPuKBX1uGPYtUz6dyXzasQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\turka\\source\\repos\\Kurumsal\\IsNet\\MicroServices\\MicroServiceSolution\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

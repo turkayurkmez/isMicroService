@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net6.0\EventBus.RabbitMQ.deps.json
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net6.0\EventBus.RabbitMQ.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net6.0\EventBus.RabbitMQ.pdb
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net6.0\EventBus.Base.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net6.0\EventBus.Base.pdb
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\EventBus.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\EventBus.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\EventBus.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\EventBus.RabbitMQ.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\EventBus.RabbitMQ.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\EventBus.RabbitMQ.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\refint\EventBus.RabbitMQ.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\EventBus.RabbitMQ.pdb
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net6.0\ref\EventBus.RabbitMQ.dll
