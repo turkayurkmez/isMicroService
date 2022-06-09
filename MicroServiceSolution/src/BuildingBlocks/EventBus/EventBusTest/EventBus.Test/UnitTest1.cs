@@ -30,9 +30,10 @@ namespace EventBus.Test
             var serviceProvider = services.BuildServiceProvider();
 
             var eventBus = serviceProvider.GetRequiredService<IEventBus>();
-            //eventBus.Publish(new OrderCreatedIntegrationEvent(1,1,new List<OrderItem> ()));
-
             eventBus.Subscribe<OrderCreatedIntegrationEvent, OrderCreatedEventHandler>();
+            eventBus.Publish(new OrderCreatedIntegrationEvent(1,"turkay",new List<OrderItem> ()));
+
+           
             
             
         }
@@ -51,7 +52,7 @@ namespace EventBus.Test
         }
 
         [Fact]
-        public void conume_event()
+        public void consume_event()
         {
             services.AddSingleton<IEventBus>(sp =>
             {
