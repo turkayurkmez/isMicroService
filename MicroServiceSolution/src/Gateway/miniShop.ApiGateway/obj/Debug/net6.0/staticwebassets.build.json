@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c0qONdMycayI0KB5aOQnWJgR1Sy2xcRMUN783hx+9FY=",
+  "Source": "miniShop.ApiGateway",
+  "BasePath": "_content/miniShop.ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -5,7 +5,13 @@ C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\sr
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Catalog.API.runtimeconfig.json
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Catalog.API.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Catalog.API.pdb
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -13,6 +19,7 @@ C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\sr
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
@@ -21,6 +28,9 @@ C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\sr
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Ocelot.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -59,5 +69,3 @@ C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\sr
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\obj\Debug\net6.0\Catalog.API.pdb
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\obj\Debug\net6.0\Catalog.API.genruntimeconfig.cache
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\obj\Debug\net6.0\ref\Catalog.API.dll
-C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\AutoMapper.dll
-C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\Services\Catalog.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

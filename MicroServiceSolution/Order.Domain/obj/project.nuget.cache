@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E3htfL2X2n85zHbCCMkepDY95S4hsvZpXTnqYb6K3xbZGwD9/0TYlTCNjLqi1QFq6gRWmztJgU9UyN13M+Wd0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\turka\\source\\repos\\Kurumsal\\IsNet\\MicroServices\\MicroServiceSolution\\Order.Domain\\Order.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.5\\microsoft.entityframeworkcore.abstractions.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

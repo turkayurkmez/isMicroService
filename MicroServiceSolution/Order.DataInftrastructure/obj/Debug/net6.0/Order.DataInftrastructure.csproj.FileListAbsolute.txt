@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\bin\Debug\net6.0\Order.DataInftrastructure.deps.json
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\bin\Debug\net6.0\Order.DataInftrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\bin\Debug\net6.0\Order.DataInftrastructure.pdb
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\bin\Debug\net6.0\Order.Domain.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\bin\Debug\net6.0\Order.Domain.pdb
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\obj\Debug\net6.0\Order.DataInftrastructure.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\obj\Debug\net6.0\Order.DataInftrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\obj\Debug\net6.0\Order.DataInftrastructure.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\obj\Debug\net6.0\Order.DataInftrastructure.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\obj\Debug\net6.0\Order.DataInftrastructure.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\obj\Debug\net6.0\Order.DataInftrastructure.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\obj\Debug\net6.0\Order.DataInftrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\obj\Debug\net6.0\refint\Order.DataInftrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\obj\Debug\net6.0\Order.DataInftrastructure.pdb
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\obj\Debug\net6.0\ref\Order.DataInftrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\bin\Debug\net6.0\Order.DataInftrastructure.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.DataInftrastructure\obj\Debug\net6.0\Order.DataInftrastructure.genruntimeconfig.cache

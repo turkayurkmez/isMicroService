@@ -19,7 +19,7 @@ namespace miniShop.Client.Services
 
         public IEnumerable<ProductResponse> GetProducts()
         {
-            var dataString = _httpClient.GetStringAsync("http://localhost:5004/api/Catalog").GetAwaiter().GetResult();
+            var dataString = _httpClient.GetStringAsync("http://localhost:5078/catalog").GetAwaiter().GetResult();
 
             return JsonConvert.DeserializeObject<IEnumerable<ProductResponse>>(dataString);
         }

@@ -1,0 +1,12 @@
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.Domain\bin\Debug\net6.0\Order.Domain.deps.json
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.Domain\bin\Debug\net6.0\Order.Domain.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.Domain\bin\Debug\net6.0\Order.Domain.pdb
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.Domain\obj\Debug\net6.0\Order.Domain.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.Domain\obj\Debug\net6.0\Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.Domain\obj\Debug\net6.0\Order.Domain.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.Domain\obj\Debug\net6.0\Order.Domain.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.Domain\obj\Debug\net6.0\Order.Domain.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.Domain\obj\Debug\net6.0\Order.Domain.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.Domain\obj\Debug\net6.0\refint\Order.Domain.dll
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.Domain\obj\Debug\net6.0\Order.Domain.pdb
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\Order.Domain\obj\Debug\net6.0\ref\Order.Domain.dll

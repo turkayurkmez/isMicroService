@@ -4,19 +4,25 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div>
-   <ul>
-   @foreach (var item in Model)   
-   {
-      <div class="card">
-          <div class="card-body">
-              <img class="card-img-top" src="@item.ImageUrl">
-              <h3 class="card-title">@item.Name</h3>   
-              <p>@item.Price</p>
-              <button class="btn btn-success">Sepete Ekle</button>
-          </div>
-      </div> 
-      <li>@item.Name</li>
-   }
-   </ul>
+<div class="container">
+
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-3">
+                <div class="card">
+                    <div class="card-body">
+                        <img class="card-img-top" src="@item.ImageUrl">
+                        <h3 class="card-title">@item.Name</h3>
+                        <p>@item.Price</p>
+                        <form asp-action="CreateOrder" method="post" asp-route-id="@item.Id" asp-route-name="@item.Name" asp-route-price="@item.Price">
+                              <button class="btn btn-success">Hemen Al</button>
+                        </form>
+                      
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
 </div>

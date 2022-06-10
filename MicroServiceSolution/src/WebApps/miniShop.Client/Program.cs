@@ -1,3 +1,4 @@
+using MassTransit;
 using miniShop.Client.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,6 +9,19 @@ builder.Services.AddHttpContextAccessor();
 builder.Services.AddHttpClient<ICatalogService, CatalogService>();
 
 builder.Services.AddScoped<CatalogService>();
+builder.Services.AddMassTransit(x =>
+{
+    x.UsingRabbitMq((context, config) =>
+    {
+        config.Host(builder.Configuration["RabbitMQUrl"], hostConfigurator =>
+        {
+            hostConfigurator.Username("guest");
+            hostConfigurator.Password("guest");
+        });
+    });
+});
+
+//builder.Services.AddMassTransitHostedService();
 
 
 var app = builder.Build();

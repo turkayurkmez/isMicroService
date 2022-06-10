@@ -1,9 +1,4 @@
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
-C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\obj\Debug\net6.0\EventBus.Test.csproj.AssemblyReference.cache
-C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\obj\Debug\net6.0\EventBus.Test.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\obj\Debug\net6.0\EventBus.Test.AssemblyInfoInputs.cache
-C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\obj\Debug\net6.0\EventBus.Test.AssemblyInfo.cs
-C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\obj\Debug\net6.0\EventBus.Test.csproj.CoreCompileInputs.cache
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\bin\Debug\net6.0\testhost.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\bin\Debug\net6.0\testhost.exe
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -104,6 +99,11 @@ C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\sr
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\bin\Debug\net6.0\EventBus.RabbitMQ.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\bin\Debug\net6.0\EventBus.Base.pdb
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\bin\Debug\net6.0\EventBus.RabbitMQ.pdb
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\obj\Debug\net6.0\EventBus.Test.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\obj\Debug\net6.0\EventBus.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\obj\Debug\net6.0\EventBus.Test.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\obj\Debug\net6.0\EventBus.Test.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\obj\Debug\net6.0\EventBus.Test.csproj.CoreCompileInputs.cache
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\obj\Debug\net6.0\EventBus.Test.csproj.CopyComplete
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\obj\Debug\net6.0\EventBus.Test.dll
 C:\Users\turka\source\repos\Kurumsal\IsNet\MicroServices\MicroServiceSolution\src\BuildingBlocks\EventBus\EventBusTest\EventBus.Test\obj\Debug\net6.0\refint\EventBus.Test.dll
