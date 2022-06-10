@@ -27,7 +27,7 @@ builder.Services.AddScoped<IProductService, ProductService>();
 
 
 var app = builder.Build();
-
+app.Services.GetRequiredService<CatalogDbContext>().Database.Migrate();
 
 
 // Configure the HTTP request pipeline.

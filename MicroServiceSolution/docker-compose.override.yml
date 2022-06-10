@@ -1,0 +1,21 @@
+version: '3.8'
+services:
+  catalogDb:
+    container_name: catalogDb
+    restart: always
+    ports:
+      - "1433:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=Pa55W0rd
+    volumes:
+      - catalogdb_volume:/var/opt/mssql/data
+  catalog.api:
+     container_name: catalog.api
+     ports: 
+      - "5004:80"
+     environment:
+      - ConnectionStrings:db=Data Source=catalogdb,1433;Initial Catalog=catalogDb;uid=sa;pwd=Pa55W0rd
+      - ASPNETCORE_ENVIRONMENT=Development
+     depends_on:
+      - catalogDb
